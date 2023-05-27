@@ -14,7 +14,10 @@ Libraries and modules required :
 6. Ttk
 
 To run :
+
 Ctrl + F5
+
 You will see the output screen
+
 Click 'Process info' button at the bottom to see the list of all processes running in the system
 
