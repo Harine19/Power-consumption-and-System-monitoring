@@ -26,3 +26,7 @@
 ## Additional Notes
 - The UI appearance may differ slightly between Windows and MacOS due to platform-specific styling.
 - Feel free to explore and customize the application further according to your preferences and requirements.
+
+## Access
+Access the demo for Windows [here!](https://github.com/Harine19/Power-consumption-and-System-monitoring/blob/main/windowsdemo.jpg)
+And the demo for MacOS [here.](https://github.com/Harine19/Power-consumption-and-System-monitoring/blob/main/macdemo.jpg)
