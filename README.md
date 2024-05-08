@@ -1,21 +1,28 @@
-# Power-consumption-and-System-monitoring
-OS Project - Using python libraries and modules to provide System statistics and process details
+# Power Consumption and System Monitoring 🖥️⚡
 
-This project is a GUI application that monitors the power consumption and system monitoring and system specifications of a computer using the Psutil library and obtains information about running processes on the system. It is flexible and easy to use. Mainly, it works 
-both on MacOS and Windows. We have used Tkinter for the UI, which looks different in both Windows & MacOs
+## Overview
+**Power-consumption-and-System-monitoring** is an OS project that utilizes Python libraries and modules to provide detailed system statistics and process information. It is a GUI application designed to monitor power consumption, system specifications, and running processes on a computer. 
 
-Developed in Python 
-Libraries and modules required :
-1. Psutil
-2. OS (for mac)
-3. Pprint
-4. Platform
-5. Tkinter
-6. Ttk
+## Key Features
+- **Cross-Platform Compatibility:** Works seamlessly on both MacOS and Windows operating systems.
+- **User-Friendly Interface:** The GUI application provides easy access to system statistics and process details.
+- **Flexibility:** Built using Python libraries such as Psutil and Tkinter, ensuring flexibility and ease of use.
+- **Real-Time Monitoring:** Obtain real-time information about system performance and running processes.
 
-To run :
+## Technologies Used
+- **Python:** Developed entirely in Python programming language.
+- **Psutil:** Utilized to gather system information and process details.
+- **Tkinter:** Used for creating the graphical user interface (GUI).
+- **OS and Platform:** Additional libraries for specific OS-related functionalities.
+- **Pprint:** For pretty-printing complex data structures.
+- **Ttk:** Enhanced styling and customization for Tkinter widgets.
 
-Ctrl + F5 ;
-You will see the output screen ;
-Click 'Process info' button at the bottom to see the list of all processes running in the system
+## How to Run
+1. **Installation:** Ensure Python is installed on your system along with the required libraries.
+2. **Execution:** Press Ctrl + F5 to execute the application.
+3. **Output:** The application will display the output screen.
+4. **Process Information:** Click the 'Process Info' button at the bottom to view the list of all running processes on the system.
 
+## Additional Notes
+- The UI appearance may differ slightly between Windows and MacOS due to platform-specific styling.
+- Feel free to explore and customize the application further according to your preferences and requirements.
